@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\DatingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\agora\\onedrive\\documents\\03-agora_rivas\\02-training\\01-udemy\\build an app with aspnet core and angular\\datingapp\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\agora\\onedrive\\documents\\03-agora_rivas\\02-training\\01-udemy\\build an app with aspnet core and angular\\datingapp\\api\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\agora\\onedrive\\documents\\03-agora_rivas\\02-training\\01-udemy\\build an app with aspnet core and angular\\datingapp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\DatingApp\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\DatingApp\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-24T12:03:11.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\DatingApp\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\DatingApp\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T11:56:44.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\DatingApp\\API\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\DatingApp\\API\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "API\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T11:54:28.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
