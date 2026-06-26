@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w8Xve1xJtog=",
+  "dgSpecHash": "/37yGcYMNY8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\training\\.NET-Angular\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agora\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\agora\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

@@ -3128,11 +3128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\training\\.NET-Angular\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\training\\.NET-Angular\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\agora\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\training\\.NET-Angular\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
