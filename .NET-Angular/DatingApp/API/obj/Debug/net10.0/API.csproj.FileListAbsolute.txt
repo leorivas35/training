@@ -315,3 +315,4 @@ C:\Users\agora\OneDrive\Documents\03-AGORA_RIVAS\02-TrAiNiNg\01-Udemy\Build an a
 C:\Users\agora\OneDrive\Documents\03-AGORA_RIVAS\02-TrAiNiNg\01-Udemy\Build an app with ASPNET Core and Angular\training\.NET-Angular\DatingApp\API\obj\Debug\net10.0\API.pdb
 C:\Users\agora\OneDrive\Documents\03-AGORA_RIVAS\02-TrAiNiNg\01-Udemy\Build an app with ASPNET Core and Angular\training\.NET-Angular\DatingApp\API\obj\Debug\net10.0\API.genruntimeconfig.cache
 C:\Users\agora\OneDrive\Documents\03-AGORA_RIVAS\02-TrAiNiNg\01-Udemy\Build an app with ASPNET Core and Angular\training\.NET-Angular\DatingApp\API\obj\Debug\net10.0\ref\API.dll
+C:\Users\agora\OneDrive\Documents\03-AGORA_RIVAS\02-TrAiNiNg\01-Udemy\Build an app with ASPNET Core and Angular\training\.NET-Angular\DatingApp\API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
