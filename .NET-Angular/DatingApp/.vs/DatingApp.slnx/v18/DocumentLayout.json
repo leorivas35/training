@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\training\\.NET-Angular\\DatingApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\agora\\onedrive\\documents\\03-agora_rivas\\02-training\\01-udemy\\build an app with aspnet core and angular\\training\\.net-angular\\datingapp\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|c:\\users\\agora\\onedrive\\documents\\03-agora_rivas\\02-training\\01-udemy\\build an app with aspnet core and angular\\training\\.net-angular\\datingapp\\api\\extensions\\appuserextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\extensions\\appuserextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\training\\.NET-Angular\\DatingApp\\API\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\training\\.NET-Angular\\DatingApp\\API\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T23:49:19.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppUserExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\training\\.NET-Angular\\DatingApp\\API\\Extensions\\AppUserExtensions.cs",
-              "RelativeDocumentMoniker": "API\\Extensions\\AppUserExtensions.cs",
-              "ToolTip": "C:\\Users\\agora\\OneDrive\\Documents\\03-AGORA_RIVAS\\02-TrAiNiNg\\01-Udemy\\Build an app with ASPNET Core and Angular\\training\\.NET-Angular\\DatingApp\\API\\Extensions\\AppUserExtensions.cs",
-              "RelativeToolTip": "API\\Extensions\\AppUserExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T23:48:08.212Z",
-              "EditorCaption": ""
             }
           ]
         }
